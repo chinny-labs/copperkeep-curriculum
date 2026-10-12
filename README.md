@@ -2,7 +2,7 @@
 
 Lessons, the skills ontology, reading tiers, and the tests that grade them. Built into
 the `content` and `audio` images that
-[`copperkeep/copperkeep`](https://github.com/copperkeep/copperkeep) deploys.
+[`chinny-labs/copperkeep`](https://github.com/chinny-labs/copperkeep) deploys.
 
 This is a separate repository because it has a separate release cadence, entirely
 different CI, and — eventually — authors who are not engineers.
@@ -65,7 +65,7 @@ See [`docs/authoring/`](docs/authoring/). What is covered, and what is not yet, 
 **CC BY-SA 4.0** — see [`LICENSE`](LICENSE).
 
 Lessons are not software, which is why this repo is licensed differently from the
-[platform](https://github.com/copperkeep/copperkeep) (AGPL-3.0). Use these lessons, adapt
+[platform](https://github.com/chinny-labs/copperkeep) (AGPL-3.0). Use these lessons, adapt
 them, translate them, teach from them commercially — attribute, and share your
 adaptations under the same terms.
 
@@ -76,7 +76,7 @@ Narration is generated with Piper's `en_US-libritts_r-medium` voice, trained on
 LibriTTS-R (CC BY 4.0); the credit ships in the audio image as `CREDITS.txt`. It covers
 only `python-a`'s Printing module for now — see `NARRATION_ONLY` in the release workflow.
 
-Contributions follow the platform's [CLA](https://github.com/copperkeep/copperkeep/blob/main/CLA.md),
+Contributions follow the platform's [CLA](https://github.com/chinny-labs/copperkeep/blob/main/CLA.md),
 for the same reason it exists there.
 
 Copyright (C) 2026 Jeffrey Chin.
